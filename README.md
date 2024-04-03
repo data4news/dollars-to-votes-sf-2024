@@ -16,7 +16,13 @@ Here's a bit of background information from the San Francisco Chronicle:
 >
 > This year, however, the DCCC race is a marquee attraction. 
 > 
-> More than $2 million has been poured into the race by backers of the two main groups, or slates, of DCCC candidates — a potentially record sum. Most of that money comes from moderate tech-affiliated and labor groups supporting a moderate slate called SF Democrats for Change, which promises to restore “common sense” to a DCCC that it accuses of taking positions “out of sync with San Francisco voters,” including “defunding public safety initiatives” and refusing to take a stance on the 2022 school board recall. Labor groups, meanwhile, are backing the progressive Labor and Working Families slate, which promises to fight for a San Francisco “that works for everyone, not just the billionaires” and to protect the city from a reversion “back to failed Reagan-era policies.” 
+> More than $2 million has been poured into the race by backers of the two main groups, or slates, of DCCC candidates — a potentially record sum. Most of that money comes from moderate tech-affiliated and labor groups supporting a moderate slate called SF Democrats for Change, which promises to restore “common sense” to a DCCC that it accuses of taking positions “out of sync with San Francisco voters,” including “defunding public safety initiatives” and refusing to take a stance on the 2022 school board recall. Labor groups, meanwhile, are backing the progressive Labor and Working Families slate, which promises to fight for a San Francisco “that works for everyone, not just the billionaires” and to protect the city from a reversion “back to failed Reagan-era policies.”
+>
+> There are 30 candidates running for 14 seats in the 17th district and 21 candidates fighting for 10 spots in the 19th.
+> 
+> Most of these candidates are running on the big slates. There are practical reasons for this: It’s extremely expensive for individual candidates to send out campaign mailers and ads. By joining forces and pooling funds, candidates can reach more people at a lower cost and benefit from the name recognition and political expertise of better-known contenders. 
+
+
 
 [Source: San Francisco Chronicle](https://www.sfchronicle.com/opinion/article/democratic-county-central-committee-18682320.php)
 
