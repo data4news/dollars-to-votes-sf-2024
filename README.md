@@ -20,4 +20,5 @@ Here's a bit of background information from the San Francisco Chronicle:
 
 [Source: San Francisco Chronicle](https://www.sfchronicle.com/opinion/article/democratic-county-central-committee-18682320.php)
 
-You want to know what role money played in this election. So you download the data and start analyzing. **Did dollars buy votes in this election?**
+You want write an article about the role money played in this election. So you download the data and start analyzing. **Did dollars buy votes in this election?**
+
