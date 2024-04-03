@@ -4,7 +4,7 @@ Mission Local looks to understand the relationship between dollars and votes in 
 
 ## Background
 
-You're a reporter at [Mission Local](https://missionlocal.org/) an independent San Francisco-based news site. The results have just come in for [local elections that were held on March 5, 2024](https://www.sfchronicle.com/projects/2024/california-primary-election-results/san-francisco). One of the things on the ballot is the DCCC election, a committee that governs the local Democratic Party. 
+You're a reporter at [Mission Local](https://missionlocal.org/) an independent San Francisco-based news site. The [results have just come in](https://missionlocal.org/2024/03/election-results-march-2024-dccc-assembly-props-court-maps-live-updates/) for local elections that were held on March 5, 2024 One of the things on the ballot is the DCCC election, a committee that governs the local Democratic Party. 
 
 Here's a bit of background information from the San Francisco Chronicle:
 
